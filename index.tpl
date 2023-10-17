@@ -35,7 +35,7 @@
             <label for="historyCity">Search City History:</label>
             <input type="text" id="historyCity" name="historyCity" required>
             <button type="submit" class="btn btn-primary">
-                <i class="bi bi-search"></i> Search History
+                <i class="bi bi-search"></i> Search History2
             </button>
         </form>
 
