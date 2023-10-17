@@ -14,7 +14,7 @@
             <label for="city">Search City Weather Data:</label>
             <input type="text" id="city" name="city" required>
             <button type="submit" class="btn btn-primary">
-                <i class="bi bi-search"></i> Search
+                <i class="bi bi-search"></i> Search1
             </button>
         </form>
 
